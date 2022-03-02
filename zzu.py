@@ -5,7 +5,7 @@ import urequests
 import utime
 
 
-def zzu():  #述胜   青林 长江 佳星 之铭 启尧 志远    晓杰 景军
+def zzu():  
 
   wechattiltle = "Information ZZUjksb"
   
